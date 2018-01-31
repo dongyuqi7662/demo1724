@@ -1,0 +1,204 @@
+#nav{
+	width:100%;
+	height:34px;
+	background:#90c221;
+}
+.con{
+	width:860px;
+	height:420px;
+	padding-top:46px;
+	margin:0 auto;
+}
+/*登录*/
+.con-left{
+	float:left;
+	width:384px;
+	font-size:12px;
+	color:#333;
+}
+.con-left h3{
+	height:22px;
+	border-bottom:1px solid #ffa41b;
+	margin-bottom:10px;
+}
+.con-left h3 span{
+	display:block;
+	width:100px;
+	height:22px;
+	font-size:16px;
+	color:#656565;
+	text-align:right;
+	border-bottom:1px solid #90c221;
+	padding-right:6px;
+}
+.con-left h3 i{
+	display:inline-block;
+	float:left;
+	width:9px;
+	height:9px;
+	margin-top:8px;
+	background:#90c221;
+}
+.con-show{
+	width:362px;
+	height:312px;
+	border:1px solid #ccc;
+	padding:46px 10px 0;
+}
+
+.con-top{
+	width:322px;
+	height:214px;
+	border-bottom:1px solid #ccc;
+	padding-left:40px;
+	margin-bottom:5px;
+}
+.con-dengl{
+	font-size:12px;
+	color:#333;
+	line-height:12px;
+	padding-left:52px;
+	margin-bottom:12px;
+}
+.con-dengl input{
+	margin-top:4px;
+}
+.con-top>input{
+	margin-bottom:12px;
+}
+.btn2{
+	width:80px;
+	height:28px;
+	color:#fff;
+	background:#ffa842;
+	border:1px solid #dc6b01;
+	border-radius:1px;
+	margin:38px 10px 0 56px;
+}
+.con-top span{
+	font-size:12px;
+	color:blue;
+}
+
+
+.con-news{
+	width:352px;
+	height:82px;
+	background:#e5e5e5;
+	padding:10px 0 0 10px ;
+}
+.con-news p{
+	font-size:12px;
+	color:#686868;
+	margin-bottom:10px;
+}
+.con-news ul{
+	margin-bottom:8px;
+	height:16px;
+}
+.con-news ul li{
+	float:left;
+	height:16px;
+	padding-right:20px;
+}
+.con-news ul img{
+	float:left;
+}
+.con-news ul a{
+	font-size:12px;
+	color:#686868;
+	float:right;
+}
+.con-news ul a:hover{
+	color:red;
+}
+/*注册*/
+.con-right{
+	float:right;
+	width:412px;
+}
+.con-right h3{
+	height:22px;
+	border-bottom:1px solid #ffa41b;
+	margin-bottom:10px;
+}
+.con-right h3 span{
+	display:block;
+	width:100px;
+	height:22px;
+	font-size:16px;
+	color:#656565;
+	text-align:right;
+	border-bottom:1px solid #90c221;
+	padding-right:6px;
+}
+.con-right h3 i{
+	display:inline-block;
+	float:left;
+	width:9px;
+	height:9px;
+	margin-top:8px;
+	background:#90c221;
+}
+.con-zhuc{
+	width:390px;
+	height:312px;
+	font-size:12px;
+	color:#333;
+	border:1px solid #ccc;
+	padding:46px 10px 10px 20px;
+}
+.con-zhuc i{
+	margin-left:6px;
+}
+.con-zhuc a{
+	color:#0000ff;
+}
+.con-zhuc p{
+	width:272px;
+	margin-left:96px;
+}
+.btnz{
+	width:80px;
+	height:28px;
+	color:#fff;
+	background:#ffa842;
+	border:1px solid #dc6b01;
+	border-radius:1px;
+}
+/*调整input的左边距*/
+.zhuc-z{
+	margin-left:24px;
+}
+.zhuc-p{
+	margin-left:24px;
+}
+.zhuc-m{
+	margin-left:48px;
+}
+.zhuc-m span{
+	margin-left:6px;
+}
+.zhuc-x{
+	margin-left:96px;
+}
+.zhuc-x input{
+	margin-bottom:16px;
+}
+.con-zhuc div{
+	margin-bottom:8px;
+}
+.con-zhuc p{
+	margin-bottom:8px;
+}
+/*底部*/
+.zfoot{
+	width:860px;
+	height:24px;
+	font-size:12px;
+	color:#fff;
+	text-align:center;
+	line-height:24px;
+	background:#6fa603;
+	margin:0 auto;
+}
